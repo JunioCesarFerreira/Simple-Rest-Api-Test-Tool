@@ -32,7 +32,7 @@
       {
       "id": 1,
       "value": "The quick brown fox jumps over the lazy dog.",
-      "status": "finded"
+      "status": "found"
       }
     </expected>
   </step>
@@ -58,7 +58,7 @@
       {
       "id": 1,
       "value": "The quick brown fox jumps over the lazy black dog.",
-      "status": "finded"
+      "status": "found"
       }
     </expected>
   </step>

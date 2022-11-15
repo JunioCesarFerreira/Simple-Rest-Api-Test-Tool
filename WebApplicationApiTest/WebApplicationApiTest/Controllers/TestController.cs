@@ -53,7 +53,7 @@ namespace WebApplicationApiTest.Controllers
             }
             else
             {
-                response.Status = "finded";
+                response.Status = "found";
             }
             ConLog.Info("Response:");
             ConLog.Json(response);
