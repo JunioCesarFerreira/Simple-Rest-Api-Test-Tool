@@ -36,7 +36,7 @@ I was in need of a simple and fast tool for testing sequences of requests in a R
       {
       "id": 1,
       "value": "The quick brown fox jumps over the lazy dog.",
-      "status": "finded"
+      "status": "found"
       }
     </expected>
   </step>
