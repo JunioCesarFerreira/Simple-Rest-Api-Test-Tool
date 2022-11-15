@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEu62KKkQ5llDc3Bzc5eeJBXxtwNUeRRXrlHbaTcYYMuXvBj7yIIAoS+wR4BtKON5ExOLFxR1w/MLSjpj1JvgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcf_s\\source\\git\\Simple-Rest-Api-Test-Tool\\WebApplicationApiTest\\WebApplicationApiTest\\WebApplicationApiTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcf_s\\.nuget\\packages\\litedb\\5.0.12\\litedb.5.0.12.nupkg.sha512",
+    "C:\\Users\\jcf_s\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jcf_s\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
